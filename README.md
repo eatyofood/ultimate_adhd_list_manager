@@ -1,24 +1,16 @@
 # ultimate_adhd_list_manager
-           ____                      
-   _____  | __ ) _ __ __ _ _ __   __| | ___  _ __  ___   _____ 
-  |_____| |  _ \| '__/ _` | '_ \ / _` |/ _ \| '_ \/ __| |_____|
-  |_____| | |_) | | | (_| | | | | (_| | (_) | | | \__ \ |_____|
-          |____/|_|  \__,_|_| |_|\__,_|\___/|_| |_|___/         
 
-                             *ultimate*                                
-              ____     _    ____  _   _ ____   ____    
-             / / /    / \  |  _ \| | | |  _ \  \ \ \   
-            / / /    / _ \ | | | | |_| | | | |  \ \ \  
-           / / /    / ___ \| |_| |  _  | |_| |   \ \ \ 
-          /_/_/    /_/   \_\____/|_| |_|____/     \_\_\ 
-                                                       
-  _     ___ ____ _____    __  __    _    _   _    _    ____ _____ ____  _ 
- | |   |_ _/ ___|_   _|  |  \/  |  / \  | \ | |  / \  / ___| ____|  _ \| |
- | |    | |\___ \ | |    | |\/| | / _ \ |  \| | / _ \| |  _|  _| | |_) | |
- | |___ | | ___) || |    | |  | |/ ___ \| |\  |/ ___ \ |_| | |___|  _ <|_|
- |_____|___|____/ |_|____|_|  |_/_/   \_\_| \_/_/   \_\____|_____|_| \_(_)
+# operation
 
-=============================================================================
+
+## its a shell script you enter a todo_listitem and a time_limit and it sets timmers for you with a visual progress bar and audio alert upon reaching 100% before moving on to the next item on your list
+
+### it iterates between 2 inputs until you type 'done' or 'DONE'
+
+#### > A. a task - str( user input )
+#### > B. how many minutes - int( )  you think  
+
+
 
 # a work in progress...
 
@@ -43,20 +35,4 @@
 
 - gives you a visual aid with a progressbar letting you know how much allotted time is left on your current task. 
 
-      - CREATE HOURS WORTH OF TODO_LIST TIMMERS IN UNDER A MINUTE! - 
-type: 
-
-1. a task --> enter
-2. how many minutes it should take --> enter 
-3. ^ rinse & repeate, until [satisfied|overwelmed] - 
-4. type: done or DONE to start the timmers
-5. ap creates an acrchive of the todo list if they iterate to compleation
-
-
-
-### it iterates between 2 inputs until you type 'done' or 'DONE'
-
-#### > A. a task - str( user input )
-#### > B. how many minutes - int( )  you think  
-
-then it starts the timmers and plays 
+ 
