@@ -1,0 +1,517 @@
+Datetime,TASK,TIME_LIMIT,STATUS
+2020-11-08 17:32:59,poop,1,COMPLEATE
+2020-11-08 17:51:50,dookie,1,COMPLEATE
+2020-11-08 18:41:29,riff,10,COMPLEATE
+2020-11-08 18:41:29,change laundry,5,COMPLEATE
+2020-11-08 18:41:29,pick up book,3,COMPLEATE
+2020-11-08 19:27:17,audio_python,45,COMPLEATE
+2020-11-08 20:12:39,audio python,45,COMPLEATE
+2020-11-08 20:58:26,sound,1,COMPLEATE
+2020-11-08 21:10:50,soundtest,1,COMPLEATE
+2020-11-08 21:10:50,soundtest,1,COMPLEATE
+2020-11-09 11:41:10,coffee,6,COMPLEATE
+2020-11-09 11:41:10,cheack control pannel,10,COMPLEATE
+2020-11-09 13:43:38,raspi,10,COMPLEATE
+2020-11-09 13:43:38,style notes in dont forget,5,COMPLEATE
+2020-11-09 13:43:38,find stanley,7,COMPLEATE
+2020-11-09 13:43:38,look for brants insta,7,COMPLEATE
+2020-11-09 13:43:38,plan day,10,COMPLEATE
+2020-11-09 13:43:38,poop,12,COMPLEATE
+2020-11-09 14:22:45,lemons,3,COMPLEATE
+2020-11-09 14:22:45,go,12,COMPLEATE
+2020-11-09 14:22:45,write reset plan,6,COMPLEATE
+2020-11-09 14:22:45,"copy to dont forget,life,jorn",6,COMPLEATE
+2020-11-09 14:22:45,schedual time,1,COMPLEATE
+2020-11-09 15:46:15,clean,6,COMPLEATE
+2020-11-09 15:46:15,music,6,COMPLEATE
+2020-11-09 15:46:15,meditate,20,COMPLEATE
+2020-11-09 15:46:15,shake,10,COMPLEATE
+2020-11-09 15:46:15,review plotly and sounds,6,COMPLEATE
+2020-11-09 15:46:15,byt,6,COMPLEATE
+2020-11-09 15:46:15,vit,6,COMPLEATE
+2020-11-09 15:46:15,gratitude jornal,6,COMPLEATE
+2020-11-09 15:46:15,yoga,6,COMPLEATE
+2020-11-09 17:02:33,shavehead,6,COMPLEATE
+2020-11-09 17:02:33,leftside,6,COMPLEATE
+2020-11-09 17:02:33,rightside,6,COMPLEATE
+2020-11-09 17:02:33,backside,6,COMPLEATE
+2020-11-09 17:02:33,topside,6,COMPLEATE
+2020-11-09 17:02:33,anythingelse,6,COMPLEATE
+2020-11-09 17:02:33,beard,6,COMPLEATE
+2020-11-09 17:02:33,b,6,COMPLEATE
+2020-11-09 17:02:33,shower,6,COMPLEATE
+2020-11-09 17:02:33,sweep,6,COMPLEATE
+2020-11-09 17:02:33,clean bathroom,6,COMPLEATE
+2020-11-09 17:33:11,respond to stan,3,COMPLEATE
+2020-11-09 17:33:11,respond to brant,3,COMPLEATE
+2020-11-09 17:33:11,respond to bill,3,COMPLEATE
+2020-11-09 17:33:11,respond to chad,3,COMPLEATE
+2020-11-09 17:33:11,respond to meg,3,COMPLEATE
+2020-11-09 17:33:11,anyone else,3,COMPLEATE
+2020-11-09 18:19:46,calculate order stats,10,COMPLEATE
+2020-11-09 18:19:46,fill out calandar,10,COMPLEATE
+2020-11-09 18:50:46,finish dataframe,10,COMPLEATE
+2020-11-09 18:50:46,adjust levels,10,COMPLEATE
+2020-11-09 18:50:46,send to billy ,10,COMPLEATE
+2020-11-09 19:20:21,send to bill,10,COMPLEATE
+2020-11-09 19:20:21,ready for next moves,1,COMPLEATE
+2020-11-09 20:12:24,open audio notebook,5,COMPLEATE
+2020-11-09 20:12:24,there are new tickers voice,5,COMPLEATE
+2020-11-09 20:12:24,new word function,10,COMPLEATE
+2020-11-09 20:12:24,shake and bake baby,10,COMPLEATE
+2020-11-09 20:44:22,local speach to text,10,COMPLEATE
+2020-11-09 20:44:22,add to schedual,10,COMPLEATE
+2020-11-09 20:44:22,add to dropzone,10,COMPLEATE
+2020-11-09 20:55:18,soundtest,1,COMPLEATE
+2020-11-09 20:59:19,task test,1,COMPLEATE
+2020-11-09 22:03:09,edit audio learn how use audacity,10,COMPLEATE
+2020-11-09 22:03:09,edit the audio file,10,COMPLEATE
+2020-11-09 22:03:09,export the audio file,5,COMPLEATE
+2020-11-09 22:03:09,upload to googledrive,5,COMPLEATE
+2020-11-09 22:03:09,upload other holosysnc,5,COMPLEATE
+2020-11-09 22:03:09,send ray link,5,COMPLEATE
+2020-11-09 22:03:09,post status,15,COMPLEATE
+2020-11-10 01:07:23,test,1,COMPLEATE
+2020-11-10 01:12:26,do the thing,2,COMPLEATE
+2020-11-10 02:35:52,add speach to control panel,15,COMPLEATE
+2020-11-10 02:35:52,add show tweets,15,COMPLEATE
+2020-11-10 03:05:57,start water,2,COMPLEATE
+2020-11-10 03:05:57,plan priorities,6,COMPLEATE
+2020-11-10 03:05:57,coffee,3,COMPLEATE
+2020-11-10 03:05:57,keep planning priorities,12,COMPLEATE
+2020-11-10 03:05:57,drink coffee,5,COMPLEATE
+2020-11-10 03:28:39,things and stuff,5,COMPLEATE
+2020-11-10 03:28:39,make sure archive function is correct on super srape,10,COMPLEATE
+2020-11-10 03:49:11,fix archive,10,COMPLEATE
+2020-11-10 03:49:11,test it,10,COMPLEATE
+2020-11-10 04:01:56,get it working ,10,COMPLEATE
+2020-11-10 04:13:36,plan super backtest module,10,COMPLEATE
+2020-11-10 06:15:57,plan martingale strat for crashes on the vix,10,COMPLEATE
+2020-11-10 06:15:57,create a long short switch counting function,7,COMPLEATE
+2020-11-10 06:15:57,isolate trues and get values,6,COMPLEATE
+2020-11-10 06:15:57,use the multiples to get up and down targets,6,COMPLEATE
+2020-11-10 06:15:57,only plot the most recent,10,COMPLEATE
+2020-11-10 06:15:57,figure anything else out time to meditate,10,COMPLEATE
+2020-11-10 08:00:46,enter print statments into a dick,6,COMPLEATE
+2020-11-10 08:00:46,model status,6,COMPLEATE
+2020-11-10 08:00:46,targets,6,COMPLEATE
+2020-11-10 08:00:46,has it hit andy targets,6,COMPLEATE
+2020-11-10 08:00:46,strategy sharp ratio,6,COMPLEATE
+2020-11-10 08:00:46,strategy pee in el,2,COMPLEATE
+2020-11-10 08:00:46,save most recent results,10,COMPLEATE
+2020-11-10 08:00:46,multi-color pandas styleing,10,COMPLEATE
+2020-11-10 08:00:46,compare and make me talk,10,COMPLEATE
+2020-11-10 08:36:50,simulate differnce,5,COMPLEATE
+2020-11-10 08:36:50,make a compare function,10,COMPLEATE
+2020-11-10 08:36:50,list the diffences,10,COMPLEATE
+2020-11-10 08:36:50,speak the differances,10,COMPLEATE
+2020-11-10 10:14:13,clean,6,COMPLEATE
+2020-11-10 10:14:13,music,6,COMPLEATE
+2020-11-10 10:14:13,meditate,12,COMPLEATE
+2020-11-10 10:14:13,situps,3,COMPLEATE
+2020-11-10 10:14:13,review,6,COMPLEATE
+2020-11-10 10:14:13,vit,3,COMPLEATE
+2020-11-10 10:14:13,brush your pubes,6,COMPLEATE
+2020-11-10 10:14:13,gratitude jorn,6,COMPLEATE
+2020-11-10 10:14:13,routine three compleate,1,COMPLEATE
+2020-11-10 10:48:09,tea,6,COMPLEATE
+2020-11-10 11:15:58,meza,1,COMPLEATE
+2020-11-10 11:15:58,jesse,1,COMPLEATE
+2020-11-10 11:15:58,zander,1,COMPLEATE
+2020-11-10 11:15:58,rain,1,COMPLEATE
+2020-11-10 11:25:19,plan the plan way,5,COMPLEATE
+2020-11-10 12:02:30,open notebook,2,COMPLEATE
+2020-11-10 12:02:30,run all ,2,COMPLEATE
+2020-11-10 12:02:30,change vape battery start vape battery timmer,2,COMPLEATE
+2020-11-10 12:02:30,adjust DMTK orders,6,COMPLEATE
+2020-11-10 12:02:30,adjust anything else or start working on activation functions,15,COMPLEATE
+2020-11-10 12:02:30,plan for more moves or start working on news feed and options chain archive,6,COMPLEATE
+2020-11-10 12:30:33,get some meatloaf ,3,COMPLEATE
+2020-11-10 12:30:33,eat it up mother fucker,15,COMPLEATE
+2020-11-10 12:30:33,five minutes left,5,COMPLEATE
+2020-11-10 12:44:01,do the do,6,COMPLEATE
+2020-11-10 12:44:01,halfway point,6,COMPLEATE
+2020-11-10 12:52:24,plan,8,COMPLEATE
+2020-11-10 13:43:27,clean up webull and take notes,10,COMPLEATE
+2020-11-10 13:43:27,is there an options chain?,10,COMPLEATE
+2020-11-10 13:43:27,archive it,6,COMPLEATE
+2020-11-10 13:43:27,can you get headlines ,10,COMPLEATE
+2020-11-10 13:43:27,archive em,6,COMPLEATE
+2020-11-10 13:43:27,what else is ther,6,COMPLEATE
+2020-11-10 14:17:27,pi,6,COMPLEATE
+2020-11-10 14:17:27,ready fready,1,COMPLEATE
+2020-11-10 14:57:11,msg chad,5,COMPLEATE
+2020-11-10 14:57:11,riff around the hedges,12,COMPLEATE
+2020-11-10 14:57:11,prepair to meditate,10,COMPLEATE
+2020-11-10 14:57:11,build the webull back end and new naming convention,10,COMPLEATE
+2020-11-10 15:18:50,mediTE,6,COMPLEATE
+2020-11-10 15:22:33,WRIST WORKOUT ,3,COMPLEATE
+2020-11-10 15:35:16,charge battery 1,60,COMPLEATE
+2020-11-10 15:35:16,charge battery 2,60,COMPLEATE
+2020-11-10 15:35:16,charge batter 3 ,60,COMPLEATE
+2020-11-10 15:35:16,charge battery 4,60,COMPLEATE
+2020-11-10 16:01:37,NEW file saving protocal,10,COMPLEATE
+2020-11-10 16:01:37,archive the file,6,COMPLEATE
+2020-11-10 16:01:37,load file from csv,6,COMPLEATE
+2020-11-10 16:01:37,attmpt parse,6,COMPLEATE
+2020-11-10 16:41:09,archive options data,10,COMPLEATE
+2020-11-10 16:41:09,parse options,10,COMPLEATE
+2020-11-10 17:45:13,setup,2,COMPLEATE
+2020-11-10 17:45:13,food,3,COMPLEATE
+2020-11-10 17:45:13,eat,15,COMPLEATE
+2020-11-10 17:45:13,resp,5,COMPLEATE
+2020-11-10 18:42:33,take notes on cells clean it up,10,COMPLEATE
+2020-11-10 18:42:33,move it to the back end,10,COMPLEATE
+2020-11-10 20:10:51,activation function on PW get rsi values,10,COMPLEATE
+2020-11-10 20:10:51,use dataframe to determain if we buy or hold,10,COMPLEATE
+2020-11-10 20:10:51,make it talk,10,COMPLEATE
+2020-11-10 21:10:51,its time to tell tofure about the A Dee H D app,1,COMPLEATE
+2020-11-10 21:14:00,get out of bed you worthless shit or ill kill you ,1,COMPLEATE
+2020-11-10 22:24:25,write on on P W,10,COMPLEATE
+2020-11-10 22:24:25,plan next activation function,10,COMPLEATE
+2020-11-10 22:57:29,buid actvtion function on hyln,10,COMPLEATE
+2020-11-10 22:57:29,MAKE IT TALK,10,COMPLEATE
+2020-11-11 15:06:57,open deep learning notebook,3,COMPLEATE
+2020-11-11 15:06:57,take coniditional strat function,6,COMPLEATE
+2020-11-11 15:06:57,apply atr strats to signals,10,COMPLEATE
+2020-11-11 16:01:17,PLAN BEEM STRAT TESTER,10,COMPLEATE
+2020-11-11 16:10:27,P,6,COMPLEATE
+2020-11-11 16:55:28,WRITE ALL THE THINGS TO DO,10,COMPLEATE
+2020-11-11 17:01:47,finish planning,6,COMPLEATE
+2020-11-11 17:12:08,almost done planning,10,COMPLEATE
+2020-11-11 19:02:15,send kat link to drive,3,COMPLEATE
+2020-11-11 19:02:15,whats chill,2,COMPLEATE
+2020-11-11 19:02:15,respond to who ,2,COMPLEATE
+2020-11-11 19:02:15,put smak into a function,6,COMPLEATE
+2020-11-11 19:02:15,write a doc string with an example for input and output,6,COMPLEATE
+2020-11-11 19:02:15,open plotly example plots,3,COMPLEATE
+2020-11-11 19:02:15,make a candel stick chart ,10,COMPLEATE
+2020-11-11 19:02:15,make a function that compiles stategys into fastuant format,6,COMPLEATE
+2020-11-11 19:02:15,doc string it,6,COMPLEATE
+2020-11-11 19:02:15,add the targets function,10,COMPLEATE
+2020-11-11 19:02:15,mix them together in a backtest sample,10,COMPLEATE
+2020-11-11 19:02:15,map out each item that can be a loop,6,COMPLEATE
+2020-11-11 19:02:15,plumb how mixing all these backtests together is going to work,10,COMPLEATE
+2020-11-11 19:29:22,work on strat,90,COMPLEATE
+2020-11-11 19:29:22,routine,60,COMPLEATE
+2020-11-11 19:29:22,plan departure,10,COMPLEATE
+2020-11-11 21:36:14,SAVING THE LIST,5,COMPLEATE
+2020-11-11 21:36:14,CREATE README FILES FOR BOTH PROGRAMS,5,COMPLEATE
+2020-11-11 21:36:14,FOOD,5,COMPLEATE
+2020-11-11 21:36:14,PHIL DEFRANCO,5,COMPLEATE
+2020-11-11 21:36:14,email lee,5,COMPLEATE
+2020-11-11 21:36:14,look for financial sentiment bag of words,10,COMPLEATE
+2020-11-11 21:36:14, look for stt with vosk,10,COMPLEATE
+2020-11-11 21:36:14,write out a quick routine for under 30min,5,COMPLEATE
+2020-11-11 21:36:14,routine,30,COMPLEATE
+2020-11-11 21:39:06,take dishes down,3,COMPLEATE
+2020-11-11 21:39:06,music,6,COMPLEATE
+2020-11-11 21:39:06,meditae,6,COMPLEATE
+2020-11-11 21:39:06,situps,3,COMPLEATE
+2020-11-11 21:39:06,byt,6,COMPLEATE
+2020-11-11 21:39:06,vit,2,COMPLEATE
+2020-11-11 21:39:06,gratitude jorn,6,COMPLEATE
+2020-11-11 22:53:28,write list,10,COMPLEATE
+2020-11-11 23:35:27,make tracer dots,10,COMPLEATE
+2020-11-11 23:35:27,plot all moving averages,10,COMPLEATE
+2020-11-11 23:35:27,fill tracker tracer,10,COMPLEATE
+2020-11-11 23:35:27,add to output function,10,COMPLEATE
+2020-11-12 00:04:16,find example of filling plot to x,5,COMPLEATE
+2020-11-12 00:04:16,add the fill function,7,COMPLEATE
+2020-11-12 00:04:16,try to turn it into a function and or script,10,COMPLEATE
+2020-11-12 00:04:16,plan next,5,COMPLEATE
+2020-11-12 01:02:59,metal,6,COMPLEATE
+2020-11-12 01:02:59,backend,6,COMPLEATE
+2020-11-12 01:15:40,start new notebook ,6,COMPLEATE
+2020-11-12 01:15:40,try to get it plotting,6,COMPLEATE
+2020-11-12 03:55:35,put load data in backend,10,COMPLEATE
+2020-11-12 03:55:35,put backtester in function and in backend,10,COMPLEATE
+2020-11-12 03:55:35,make a results function,10,COMPLEATE
+2020-11-12 03:55:35,set up a loop,10,COMPLEATE
+2020-11-12 04:31:59,SAVE THE WAY TO RESULTS,10,COMPLEATE
+2020-11-12 04:31:59,MAKE THE SCRIPT WORK,10,COMPLEATE
+2020-11-12 04:31:59,RUN IT,1,COMPLEATE
+2020-11-12 09:54:31,alarm,230,COMPLEATE
+2020-11-12 13:27:10,shend mom vid,3,COMPLEATE
+2020-11-12 13:27:10,load up moring report,5,COMPLEATE
+2020-11-12 14:17:53,look into why dropzone is not loading new tweets,20,COMPLEATE
+2020-11-12 15:34:51,make a food and start tea,5,COMPLEATE
+2020-11-12 15:34:51,eat food,20,COMPLEATE
+2020-11-12 15:34:51,plan your next moves on the loops,10,COMPLEATE
+2020-11-12 15:54:04,coffeenate,13,COMPLEATE
+2020-11-12 16:17:38,pull notebook,3,COMPLEATE
+2020-11-12 16:17:38,grids,10,COMPLEATE
+2020-11-12 16:17:38,plan next moves,7,COMPLEATE
+2020-11-12 16:41:13,atr plot,10,COMPLEATE
+2020-11-12 16:41:13,map out atr strat,10,COMPLEATE
+2020-11-12 17:22:31,a t r target hit ,6,COMPLEATE
+2020-11-12 17:22:31,atr ouput,6,COMPLEATE
+2020-11-12 17:22:31,put it in a function,6,COMPLEATE
+2020-11-12 17:22:31,put function in a back test,6,COMPLEATE
+2020-11-12 17:22:31,build combined exits version,12,COMPLEATE
+2020-11-12 18:20:00,look over the math,10,COMPLEATE
+2020-11-12 18:20:00,add capital plot,10,COMPLEATE
+2020-11-12 18:20:00,combine entry and exits function,10,COMPLEATE
+2020-11-12 18:20:00,clean it up ,10,COMPLEATE
+2020-11-12 18:20:00,start working on the plumbing,15,COMPLEATE
+2020-11-12 20:41:27,atr function from the back end,10,COMPLEATE
+2020-11-12 20:41:27,make a plot atr function,10,COMPLEATE
+2020-11-12 20:41:27,make custom strat example,10,COMPLEATE
+2020-11-12 20:41:27,demonstrate mixing differnt plots together,10,COMPLEATE
+2020-11-12 21:31:09,make the mixed paramaters a strat,10,COMPLEATE
+2020-11-12 21:31:09,revert strat example back to one factor,5,COMPLEATE
+2020-11-12 21:31:09,set up loop example and run it 10,10,COMPLEATE
+2020-11-13 01:29:09,finish plan,5,COMPLEATE
+2020-11-13 01:29:09,adjust notebook so it doesnt plot,5,COMPLEATE
+2020-11-13 01:29:09,add batch time,5,COMPLEATE
+2020-11-13 01:29:09,add iteration time,5,COMPLEATE
+2020-11-13 01:29:09,create archive protocall,10,COMPLEATE
+2020-11-13 01:29:09,create grid saving protocall,10,COMPLEATE
+2020-11-13 01:29:09,put loop into a function,7,COMPLEATE
+2020-11-13 02:11:24,finish grid saveing,10,COMPLEATE
+2020-11-13 02:11:24,make archive function,10,COMPLEATE
+2020-11-13 02:11:24,put loop in a function ,10,COMPLEATE
+2020-11-13 02:11:24,give loop a dictionary that iterates through to add the params to archive,10,COMPLEATE
+2020-11-13 04:36:04,set up,5,COMPLEATE
+2020-11-13 04:36:04,new notebook,5,COMPLEATE
+2020-11-13 04:36:04,put the things in functions,15,COMPLEATE
+2020-11-13 04:51:30,work out the kinks,15,COMPLEATE
+2020-11-13 07:30:08,tracker for when fast goes below the first time,6,COMPLEATE
+2020-11-13 07:30:08,first buy trigger,6,COMPLEATE
+2020-11-13 07:30:08,trigger atr target,10,COMPLEATE
+2020-11-13 07:30:08,first corner after,6,COMPLEATE
+2020-11-13 07:30:08,when it hits sma,10,COMPLEATE
+2020-11-13 07:30:08,r s i buys ,10,COMPLEATE
+2020-11-13 07:30:08,when delta is above a thresh hold,10,COMPLEATE
+2020-11-13 07:30:08,turn the motherfucker into a loop,10,COMPLEATE
+2020-11-13 10:49:36,write report,5,COMPLEATE
+2020-11-13 10:49:36,put all functions in back end,10,COMPLEATE
+2020-11-13 10:49:36,rename notebook and copy it to merge,6,COMPLEATE
+2020-11-13 10:49:36,merge notebook and make it a script remove all plots,13,COMPLEATE
+2020-11-13 10:49:36,run loop on another security ,12,COMPLEATE
+2020-11-13 10:49:36,examine results,10,COMPLEATE
+2020-11-13 12:36:39,wake up and rage mother fucker,3,COMPLEATE
+2020-11-13 12:36:39,make ginsing tea,2,COMPLEATE
+2020-11-13 12:36:39,evaluate whats going on,6,COMPLEATE
+2020-11-13 12:36:39,get your tea,3,COMPLEATE
+2020-11-13 12:36:39,drink tea and evaluate,15,COMPLEATE
+2020-11-13 12:36:39,work on your loops,3,COMPLEATE
+2020-11-13 13:28:26,open evaluation notebook,3,COMPLEATE
+2020-11-13 13:28:26,try to put everything in one function,10,COMPLEATE
+2020-11-13 13:28:26,get plot next to heatmap,5,COMPLEATE
+2020-11-13 14:30:26,get trill data,5,COMPLEATE
+2020-11-13 14:30:26,start backtest,5,COMPLEATE
+2020-11-13 14:30:26,anylize it ,10,COMPLEATE
+2020-11-13 14:30:26,start the variations,5,COMPLEATE
+2020-11-15 14:28:27,respond to the thing,6,COMPLEATE
+2020-11-15 14:28:27,write out list,6,COMPLEATE
+2020-11-15 14:28:27,clean room,10,COMPLEATE
+2020-11-15 14:28:27,music,12,COMPLEATE
+2020-11-15 14:28:27,meditation prep,2,COMPLEATE
+2020-11-15 14:28:27,meditate,20,COMPLEATE
+2020-11-15 14:28:27,situp,3,COMPLEATE
+2020-11-15 14:28:27,situps,3,COMPLEATE
+2020-11-15 14:28:27,review dont forget,6,COMPLEATE
+2020-11-15 14:28:27,brush teeth and shave,6,COMPLEATE
+2020-11-15 14:28:27,vit,3,COMPLEATE
+2020-11-15 14:28:27,jornal,3,COMPLEATE
+2020-11-15 16:41:01,find promotional contnent,10,COMPLEATE
+2020-11-15 16:41:01,send to frodo,6,COMPLEATE
+2020-11-15 16:41:01,invite forodo to drive,6,COMPLEATE
+2020-11-15 17:12:48,MAKE A FOOD,5,COMPLEATE
+2020-11-15 17:12:48,EAT,20,COMPLEATE
+2020-11-15 17:28:16,food,5,COMPLEATE
+2020-11-15 17:28:16,eat,5,COMPLEATE
+2020-11-15 17:28:16,go,5,COMPLEATE
+2020-11-15 23:22:12,pea,5,COMPLEATE
+2020-11-15 23:49:14,clear the stuff,5,COMPLEATE
+2020-11-15 23:49:14,build the four layer loop,10,COMPLEATE
+2020-11-16 02:25:53,food,5,COMPLEATE
+2020-11-16 02:25:53,watch zipp trader,13,COMPLEATE
+2020-11-16 02:25:53,collect tickers mentioned,5,COMPLEATE
+2020-11-16 02:25:53,put loop in script,6,COMPLEATE
+2020-11-16 02:25:53,run loop on tickers,5,COMPLEATE
+2020-11-16 06:03:43,put the fucking loop back into an inline script,10,COMPLEATE
+2020-11-16 06:14:26,put inline into script and run,10,COMPLEATE
+2020-11-16 10:12:42,SLEEP,90,COMPLEATE
+2020-11-16 18:57:37,hyln report,6,COMPLEATE
+2020-11-16 18:57:37,finish h y l n report,6,COMPLEATE
+2020-11-16 18:57:37,start tea ,3,COMPLEATE
+2020-11-16 18:57:37,make a bot for h y l n ,6,COMPLEATE
+2020-11-16 18:57:37,finish bot for h y l n ,6,COMPLEATE
+2020-11-16 18:57:37,report on P W ,6,COMPLEATE
+2020-11-16 18:57:37,finish report on P W ,6,COMPLEATE
+2020-11-16 18:57:37,make a P W bot,6,COMPLEATE
+2020-11-16 18:57:37,finish P W bot ,6,COMPLEATE
+2020-11-16 18:57:37,open a for loop and new notebook,6,COMPLEATE
+2020-11-16 18:57:37,make a template for regular paramater iterstrat,10,COMPLEATE
+2020-11-16 18:57:37,open old iter strat and use params as a template,6,COMPLEATE
+2020-11-16 18:57:37,dirnk tea get geeked and plan next moves,6,COMPLEATE
+2020-11-16 19:28:51,fnish loop ,6,COMPLEATE
+2020-11-16 19:28:51,work on saving paramaters,6,COMPLEATE
+2020-11-16 19:28:51,finish saveing paramters,6,COMPLEATE
+2020-11-16 19:28:51,write other start functions,6,COMPLEATE
+2020-11-16 19:28:51,finish other strat functions,6,COMPLEATE
+2020-11-16 20:09:03,copy strats ,6,COMPLEATE
+2020-11-16 20:09:03,keep copying ,20,COMPLEATE
+2020-11-16 20:09:03,write them all in a scirpt,6,COMPLEATE
+2020-11-16 20:09:03,finish sript,6,COMPLEATE
+2020-11-17 15:44:40,wrtie list ,6,COMPLEATE
+2020-11-17 15:44:40,get music bumping,6,COMPLEATE
+2020-11-17 15:44:40,write new schedual,1,COMPLEATE
+2020-11-17 16:01:07,market close,12,COMPLEATE
+2020-11-17 16:01:07,close,1,COMPLEATE
+2020-11-20 10:34:28,write list,12,COMPLEATE
+2020-11-20 13:01:51,finish dropzone,12,COMPLEATE
+2020-11-22 14:17:41,space out,10,COMPLEATE
+2020-11-22 14:17:41,plan write list,12,COMPLEATE
+2020-11-22 14:17:41,go,1,COMPLEATE
+2020-11-22 17:31:34,writing out goals,12,COMPLEATE
+2020-11-22 17:31:34,wrtie out schedual for right now including clean car and grocery run,12,COMPLEATE
+2020-11-22 18:22:11,coil,6,COMPLEATE
+2020-11-22 18:22:11,finish coil,6,COMPLEATE
+2020-11-22 20:29:05,loook for obvom,6,COMPLEATE
+2020-11-22 20:29:05,issue new statement about audio books and the drive. ,6,COMPLEATE
+2020-11-22 20:29:05,send messages to everyone that did it through messenger,12,COMPLEATE
+2020-11-22 20:29:05,plan for kratom pressing,1,COMPLEATE
+2020-11-22 23:26:04,unload car,6,COMPLEATE
+2020-11-22 23:26:04,change out,6,COMPLEATE
+2020-11-22 23:26:04,set up,6,COMPLEATE
+2020-11-22 23:26:04,press one,12,COMPLEATE
+2020-11-22 23:26:04,press two,12,COMPLEATE
+2020-11-22 23:26:04,press 3,12,COMPLEATE
+2020-11-22 23:26:04,press 4,12,COMPLEATE
+2020-11-22 23:26:04,press 5,12,COMPLEATE
+2020-11-22 23:26:04,press 6 ,12,COMPLEATE
+2020-11-22 23:26:04,press 7,12,COMPLEATE
+2020-11-22 23:26:04,press 8,12,COMPLEATE
+2020-11-22 23:26:04,press 9,12,COMPLEATE
+2020-11-22 23:26:04,press 10,12,COMPLEATE
+2020-11-22 23:26:04,press 11,12,COMPLEATE
+2020-11-22 23:26:04,press 12,12,COMPLEATE
+2020-11-22 23:54:31,start night todo jornal,6,COMPLEATE
+2020-11-22 23:54:31,start to record night playlist,5,COMPLEATE
+2020-11-22 23:54:31,plan,12,COMPLEATE
+2020-11-23 00:31:44,make a food get ski kratom,5,COMPLEATE
+2020-11-23 00:31:44,eat food ,20,COMPLEATE
+2020-11-23 00:31:44,clean room,1,COMPLEATE
+2020-11-23 09:05:53,finish features,3,COMPLEATE
+2020-11-23 09:05:53,write buisness model,6,COMPLEATE
+2020-11-23 09:05:53,action plan ,6,COMPLEATE
+2020-11-24 13:07:01,plan ,12,COMPLEATE
+2020-11-24 13:36:57,finish write up,6,COMPLEATE
+2020-11-24 13:36:57,finish adjustments,6,COMPLEATE
+2020-11-24 13:36:57,MEDITATE,2,COMPLEATE
+2020-11-24 14:48:05,food,6,COMPLEATE
+2020-11-24 14:48:05,eat,20,COMPLEATE
+2020-11-24 14:48:05,cap,12,COMPLEATE
+2020-11-24 18:01:03,send billy stock account link,6,COMPLEATE
+2020-11-24 18:01:03,send billy report link,6,COMPLEATE
+2020-11-24 18:01:03,plan,6,COMPLEATE
+2020-11-25 13:31:38,open research dir,6,COMPLEATE
+2020-11-25 13:31:38,open strat report,6,COMPLEATE
+2020-11-25 13:31:38,open a moniter for ipob on wake up,12,COMPLEATE
+2020-11-25 13:31:38,start BEITTER on IPOB,6,COMPLEATE
+2020-11-25 14:51:06,change coil,6,COMPLEATE
+2020-11-25 14:51:06,finish coil,6,COMPLEATE
+2020-11-25 14:51:06,clean,6,COMPLEATE
+2020-11-25 14:51:06,music,15,COMPLEATE
+2020-11-25 14:51:06,meditate,30,COMPLEATE
+2020-11-25 14:51:06,write out goals,6,COMPLEATE
+2020-11-25 14:51:06,pushups,1,COMPLEATE
+2020-11-25 14:51:06,sit ups,3,COMPLEATE
+2020-11-26 12:08:08,finish plan,6,COMPLEATE
+2020-11-26 12:08:08,finish plan,6,COMPLEATE
+2020-11-26 12:08:08,write out goals ,6,COMPLEATE
+2020-11-26 12:08:08,put a tab on goals sheet,3,COMPLEATE
+2020-11-26 15:57:06,burn ubuntu studio,6,COMPLEATE
+2020-11-26 15:57:06,finish burning ubuntu studio,6,COMPLEATE
+2020-11-26 15:57:06,laundry,6,COMPLEATE
+2020-11-26 15:57:06,clean car,20,COMPLEATE
+2020-11-26 15:57:06,music warm up ,6,COMPLEATE
+2020-11-26 15:57:06,open flow,3,COMPLEATE
+2020-11-26 15:57:06,breathy range,3,COMPLEATE
+2020-11-26 15:57:06,vibrato range,6,COMPLEATE
+2020-11-26 15:57:06,open diaphram ,3,COMPLEATE
+2020-11-26 15:57:06,octaves,3,COMPLEATE
+2020-11-26 15:57:06,move a key,3,COMPLEATE
+2020-11-26 15:57:06,push ups,2,COMPLEATE
+2020-11-26 15:57:06,sit ups ,2,COMPLEATE
+2020-11-27 13:47:26,open clean moniter,2,COMPLEATE
+2020-11-27 13:47:26,look for tranch strat,6,COMPLEATE
+2020-11-27 13:47:26,work it 6,6,COMPLEATE
+2020-11-27 13:47:26,observe application,6,COMPLEATE
+2020-11-27 13:47:26,notes and or add tranch idea to catilyst app ideas,6,COMPLEATE
+2020-11-27 13:47:26,meditation prep,2,COMPLEATE
+2020-11-27 17:11:25,clean,6,COMPLEATE
+2020-11-27 17:11:25,b y t ,6,COMPLEATE
+2020-11-27 17:11:25,github review,12,COMPLEATE
+2020-11-27 17:11:25,103 situps,2,COMPLEATE
+2020-11-27 17:11:25,13 pushups,2,COMPLEATE
+2020-11-27 17:11:25,meditate,30,COMPLEATE
+2020-11-27 17:11:25,meditaion prep,2,COMPLEATE
+2020-11-27 17:11:25,vit,2,COMPLEATE
+2020-11-27 17:11:25,move keys,6,COMPLEATE
+2020-11-27 17:11:25,open diaphram ,3,COMPLEATE
+2020-11-27 17:11:25,vibrato,3,COMPLEATE
+2020-11-27 17:11:25,bubbles,3,COMPLEATE
+2020-11-27 17:11:25,breathy range,3,COMPLEATE
+2020-11-27 17:11:25,open flow,3,COMPLEATE
+2020-11-27 17:11:25,jame with radio,12,COMPLEATE
+2020-11-27 17:11:25,octaves,3,COMPLEATE
+2020-11-27 17:11:25,jorn,6,COMPLEATE
+2020-11-27 18:15:57,write finance list,6,COMPLEATE
+2020-11-27 18:15:57,START COFEFE ,3,COMPLEATE
+2020-11-27 18:15:57,DRINK COFEFE,3,COMPLEATE
+2020-11-27 18:15:57,SCHEDUAL,1,COMPLEATE
+2020-11-27 20:38:57,music,20,COMPLEATE
+2020-11-27 20:38:57,meditationprep,2,COMPLEATE
+2020-11-27 20:38:57,meditate,10,COMPLEATE
+2020-11-27 21:13:17,save to hardrive,10,COMPLEATE
+2020-11-27 23:26:22,send the adjuster the email,10,COMPLEATE
+2020-11-27 23:26:22,move robin hood money,10,COMPLEATE
+2020-11-27 23:26:22,get bank statment,10,COMPLEATE
+2020-11-27 23:26:22,open a project github,10,COMPLEATE
+2020-11-27 23:26:22,get statement into a notbook,10,COMPLEATE
+2020-11-27 23:26:22,get cost perday and build projections,10,COMPLEATE
+2020-11-27 23:26:22,income projections,10,COMPLEATE
+2020-11-27 23:26:22,update billys bill,10,COMPLEATE
+2020-11-27 23:26:22,put it on the spreadsheet,10,COMPLEATE
+2020-11-27 23:26:22,add owed moneys to projection,10,COMPLEATE
+2020-11-27 23:26:22,add NEW LIST FORMAT to jornal,10,COMPLEATE
+2020-11-28 01:05:32,warm back up through the songs,12,COMPLEATE
+2020-11-28 01:05:32,jam with and learn well dressed ,12,COMPLEATE
+2020-11-28 01:05:32,whatever,6,COMPLEATE
+2020-11-28 01:05:32,make a food,6,COMPLEATE
+2020-11-28 01:05:32,eat it,15,COMPLEATE
+2020-11-28 03:23:39,open notebook,3,COMPLEATE
+2020-11-28 03:23:39,git hub review notebook,10,COMPLEATE
+2020-11-28 03:23:39,upload to github,10,COMPLEATE
+2020-11-28 03:23:39,parse all the topics,10,COMPLEATE
+2020-11-28 03:23:39,plot projection,10,COMPLEATE
+2020-11-28 03:23:39,add incomes,10,COMPLEATE
+2020-11-28 03:23:39,plot income projection,10,COMPLEATE
+2020-11-28 03:40:47,piss out window ,3,COMPLEATE
+2020-11-28 03:40:47,meditation prep,2,COMPLEATE
+2020-11-28 03:40:47,meditate,7,COMPLEATE
+2020-11-28 04:09:50,write down a bunch of things to do ,6,COMPLEATE
+2020-11-28 04:09:50,parse a whole bunch of things,10,COMPLEATE
+2020-11-28 04:09:50,keep it rolling,1,COMPLEATE
+2020-11-28 05:22:55,another long block of coding and lower expenses ,60,COMPLEATE
+2020-11-28 05:22:55,start working on lowering expense. ,15,COMPLEATE
+2020-11-28 05:22:55,create new repo on biter strat,15,COMPLEATE
+2020-11-28 05:22:55,plan next wave ,1,COMPLEATE
+2020-11-29 15:47:31,meditate,15,COMPLEATE
+2020-11-29 15:47:31,reflect,1,COMPLEATE
+2020-11-29 16:19:54,clear ,6,COMPLEATE
+2020-11-29 16:19:54,open flow,3,COMPLEATE
+2020-11-29 16:19:54,breathy range,3,COMPLEATE
+2020-11-29 16:19:54,bubbles,3,COMPLEATE
+2020-11-29 16:19:54,vibrato,3,COMPLEATE
+2020-11-29 16:19:54,open diaphram,3,COMPLEATE
+2020-11-29 16:19:54,octaves,3,COMPLEATE
+2020-11-29 16:19:54,move keys,6,COMPLEATE
+2020-11-29 16:53:04,byt ,6,COMPLEATE
+2020-11-29 16:53:04,find chord,6,COMPLEATE
+2020-11-29 16:53:04,bracelet,6,COMPLEATE
+2020-11-29 16:53:04,lace,6,COMPLEATE
